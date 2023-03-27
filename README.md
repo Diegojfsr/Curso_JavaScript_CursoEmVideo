@@ -3,10 +3,13 @@
 Repositorio criado para documentar todo o meu passo a passo, projetos e codigos desenvolvidos durante o  curso de JavaScript do Curso em Video.
 -->
 
+
+
 <h1> Sejam bem-vindos!!!</h1>
 <h3>Esse é o meu repositório do curso de JavaScript do Curso em Video.</h3>
 <h5> 
-Repositorio criado para documentar todo o meu passo a passo, projetos e codigos desenvolvidos durante o  curso de JavaScript do Curso em Video.
+Repositorio criado para documentar todo o meu passo a passo, projetos e codigos desenvolvidos durante o  curso de <strong>JavaScript do
+ <a href="https://www.youtube.com/playlist?list=PLHz_AreHm4dlsK3Nr9GVvXCbpQyHQl1o1"> Curso em Video ❤️ </strong> </a>
  </h5> 
 
 <h2> 🎯 Objetivo </h2>
