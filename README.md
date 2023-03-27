@@ -10,13 +10,13 @@ Repositorio criado para documentar todo o meu passo a passo, projetos e codigos 
  </h5> 
 
 <h2> 🎯 Objetivo </h2>
-Desenvolver um sistema, que através de Rede Neural, a medio e longo prazo ajude os usuarios a economizar e ao mesmo tempo investir em ativos e ações que almentem seus ganhos com baixos riscos.
+Conhecer um pouco mais sobre a linguagem JS, aprender a programação funcional e dominar os recursos mais avançados do JavaScript.
 
 <h2 dir="auto"> 🚦 Guia </h2>
 <ul dir="auto">
- <li> Preparação do Projeto. <a href="https://">Acessar</a> </li>
- <li> Pesquisas e anotações. <a href="https://"> Acessar </a> </li>
- <li> Páginas e Modelos. <a href="https://"> Acessar </a> </li>
+ <li> Curso Grátis de JavaScript Moderno. <a href="https://www.youtube.com/watch?v=BXqUH86F-kA&list=PLntvgXM11X6pi7mW0O4ZmfUI1xDSIbmTm&index=1">Acessar</a> </li>
+ <li> Módulo A - Conhecendo o JavaScript. <a href="https://www.youtube.com/watch?v=uzEhd3Lugik&list=PLntvgXM11X6pi7mW0O4ZmfUI1xDSIbmTm&index=2"> Acessar </a> </li>
+ <li> O que o JavaScript é capaz de fazer? <a href="https://www.youtube.com/watch?v=Ptbk2af68e8&list=PLntvgXM11X6pi7mW0O4ZmfUI1xDSIbmTm&index=3"> Acessar </a> </li>
  
 </ul>
 
