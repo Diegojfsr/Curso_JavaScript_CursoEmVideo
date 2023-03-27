@@ -66,14 +66,11 @@ Conhecer um pouco mais sobre a linguagem JS, aprender a programação funcional 
 </ul>
 
 
-
-
-
-
 <h2 dir="auto"> 🤝 Contribuindo </h2>
 <p dir="auto">
-  Este repositório foi criado para fins de estudo, então contribua com ele. Se te ajudei de alguma forma, ficarei feliz em
-  sabe
+ Este repositório foi criado para fins de estudo, então contribua com ele. Se te ajudei de alguma forma, ficarei feliz em
+saber. E caso você conheça alguém que se identidique com o conteúdo, não deixe de compatilhar.
+</p>
 
 
 
