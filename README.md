@@ -20,20 +20,32 @@ Desenvolver um sistema, que através de Rede Neural, a medio e longo prazo ajude
  
 </ul>
 
+<h2 dir="auto"> 📝 Lista de Atividades </h2>
+<ul dir="auto">
+  <li>📝 Atividade I.<a href="https://"> Acessar </a></li>
+</ul>
+
+
+<h2 dir="auto"> 🚩 Lista de Projetos  </h2>
+<ul dir="auto">
+  <li> 🚩 Projeto I.<a href="https://"> Acessar </a></li>
+</ul>
+
+
 
 <h2 dir="auto"> 📝 Minhas Anotações </h2>
 <ul dir="auto">
   <li><a href="https://"> Link 1. </a></li>
-  <li><a href="https:/"> Link 2. </a></li>
+  <li><a href="https://"> Link 2. </a></li>
   <li><a href="https://"> Link 3. </a></li>
   
 </ul>
 
 <h2 dir="auto"> 🔗 Links Úteis </h2>
 <ul dir="auto">
-  <li><a href="https://cantarinobrasileiro.com.br/blog/4-aplicacoes-praticas-do-machine-learning-no-setor-financeiro/">Aplicações práticas do machine learning no setor financeiro.</a></li>
-  <li><a href="https://blog.dsacademy.com.br/10-casos-de-uso-de-machine-learning-em_financas/">Casos de Uso de Machine Learning em Finanças.</a></li>
-  <li><a href="https://novoidealconsultoria.com.br/dicas/aplicativos-para-poupar-dinheiro-agora-mesmo/?pht=36801570733355363&utm_source=google&utm_medium=cpc&utm_campaign=google&gclid=Cj0KCQjw8e-gBhD0ARIsAJiDsaWVOEOA6ShuudFq_IJqEKcxe-3_5ouEyk42IlbH225V7fO-WSOWjq4aAjDuEALw_wcB">Aplicativos para poupar dinheiro agora mesmo!</a></li>
+  <li><a href="https://">Link 1.</a></li>
+  <li><a href="https://">Link 2.</a></li>
+  <li><a href="https://">Link 3.</a></li>
   
 </ul>
 
@@ -53,19 +65,6 @@ Desenvolver um sistema, que através de Rede Neural, a medio e longo prazo ajude
   
 </ul>
 
-<h2 dir="auto"> 📝 Lista de Atividades </h2>
-Esta área é reservada para as atividades desenvolvidas por mim no dia a dia, durante toda a jornada.
-As atividades estão separadas por Módulos.
-<ul dir="auto">
-  <li>📝 Atividade I.<a href="https://"> Acessar </a></li>
-</ul>
-
-
-<h2 dir="auto"> 🚩 Lista de Projetos  </h2>
-Esta área é reservada para os projetos desenvolvidos por mim no dia a dia, durante toda a jornada.
-<ul dir="auto">
-  <li> 🚩 Projeto I.<a href="https://"> Acessar </a></li>
-</ul>
 
 
 
