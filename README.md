@@ -26,7 +26,7 @@ Conhecer um pouco mais sobre a linguagem JS, aprender a programação funcional 
  <li> JavaScript: como chegamos até aqui? <a href="https://www.youtube.com/watch?v=rUTKomc2gG8&list=PLHz_AreHm4dlsK3Nr9GVvXCbpQyHQl1o1&index=5"> Acessar </a> </li>
  <li> Dando os primeiros passos. <a href="https://www.youtube.com/watch?v=FdePtO5JSd0&list=PLHz_AreHm4dlsK3Nr9GVvXCbpQyHQl1o1&index=6"> Acessar </a> </li> 
  <li> Criando o seu primeiro script. <a href="https://www.youtube.com/watch?v=OmmJBfcMJA8&list=PLHz_AreHm4dlsK3Nr9GVvXCbpQyHQl1o1&index=7"> Acessar </a> </li> 
-
+ <li> Módulo B - Comandos Básicos do JS. <a href="https://www.youtube.com/watch?v=FjT97HVT5g8&list=PLHz_AreHm4dlsK3Nr9GVvXCbpQyHQl1o1&index=8"> Acessar </a> </li> 
 </ul>
 
 <h2 dir="auto"> 📝 Lista de Atividades </h2>
