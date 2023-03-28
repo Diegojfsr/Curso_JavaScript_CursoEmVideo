@@ -25,7 +25,7 @@ Conhecer um pouco mais sobre a linguagem JS, aprender a programação funcional 
  <li> O que o JavaScript é capaz de fazer? <a href="https://www.youtube.com/watch?v=Ptbk2af68e8&list=PLHz_AreHm4dlsK3Nr9GVvXCbpQyHQl1o1&index=4"> Acessar </a> </li>
  <li> JavaScript: como chegamos até aqui? <a href="https://www.youtube.com/watch?v=rUTKomc2gG8&list=PLHz_AreHm4dlsK3Nr9GVvXCbpQyHQl1o1&index=5"> Acessar </a> </li>
  <li> Dando os primeiros passos. <a href="https://www.youtube.com/watch?v=FdePtO5JSd0&list=PLHz_AreHm4dlsK3Nr9GVvXCbpQyHQl1o1&index=6"> Acessar </a> </li> 
-
+ <li> Criando o seu primeiro script. <a href="https://www.youtube.com/watch?v=OmmJBfcMJA8&list=PLHz_AreHm4dlsK3Nr9GVvXCbpQyHQl1o1&index=7"> Acessar </a> </li> 
 
 </ul>
 
