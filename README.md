@@ -19,10 +19,14 @@ Conhecer um pouco mais sobre a linguagem JS, aprender a programação funcional 
 
 <h2 dir="auto"> 🚦 Guia </h2>
 <ul dir="auto">
- <li> Curso Grátis de JavaScript Moderno. <a href="https://www.youtube.com/watch?v=BXqUH86F-kA&list=PLntvgXM11X6pi7mW0O4ZmfUI1xDSIbmTm&index=1">Acessar</a> </li>
- <li> Módulo A - Conhecendo o JavaScript. <a href="https://www.youtube.com/watch?v=uzEhd3Lugik&list=PLntvgXM11X6pi7mW0O4ZmfUI1xDSIbmTm&index=2"> Acessar </a> </li>
- <li> O que o JavaScript é capaz de fazer? <a href="https://www.youtube.com/watch?v=Ptbk2af68e8&list=PLntvgXM11X6pi7mW0O4ZmfUI1xDSIbmTm&index=3"> Acessar </a> </li>
- 
+ <li> Curso de JavaScript - Teaser. <a href="https://www.youtube.com/watch?v=1-w1RfGIov4&list=PLHz_AreHm4dlsK3Nr9GVvXCbpQyHQl1o1&index=1">Acessar</a> </li>
+ <li> Curso Grátis de JavaScript Moderno. <a href="https://www.youtube.com/watch?v=BXqUH86F-kA&list=PLHz_AreHm4dlsK3Nr9GVvXCbpQyHQl1o1&index=2"> Acessar </a> </li>
+ <li> Módulo A - Conhecendo o JavaScript. <a href="https://www.youtube.com/watch?v=uzEhd3Lugik&list=PLHz_AreHm4dlsK3Nr9GVvXCbpQyHQl1o1&index=3"> Acessar </a> </li>
+ <li> O que o JavaScript é capaz de fazer? <a href="https://www.youtube.com/watch?v=Ptbk2af68e8&list=PLHz_AreHm4dlsK3Nr9GVvXCbpQyHQl1o1&index=4"> Acessar </a> </li>
+ <li> JavaScript: como chegamos até aqui? <a href="https://www.youtube.com/watch?v=rUTKomc2gG8&list=PLHz_AreHm4dlsK3Nr9GVvXCbpQyHQl1o1&index=5"> Acessar </a> </li>
+ <li> Dando os primeiros passos. <a href="https://www.youtube.com/watch?v=FdePtO5JSd0&list=PLHz_AreHm4dlsK3Nr9GVvXCbpQyHQl1o1&index=6"> Acessar </a> </li> 
+
+
 </ul>
 
 <h2 dir="auto"> 📝 Lista de Atividades </h2>
